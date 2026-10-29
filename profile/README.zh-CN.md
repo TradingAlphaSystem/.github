@@ -12,7 +12,7 @@
 
 Trading Alpha System（TAS）面向股票与期权投资者，旨在把交易分析、知识学习与方法应用连接起来。它以智能体协作为核心，围绕你自己的交易记录、学习目标和判断，组织可以保存、再次打开和持续跟进的复盘与研究，帮助你逐步形成适合自己的交易方式。
 
-**[加入共创](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5B%E5%85%B1%E5%88%9B%E6%8A%A5%E5%90%8D%5D%20%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D&body=%E5%8F%82%E4%B8%8E%E6%96%B9%E5%90%91%EF%BC%9A%E4%BA%A4%E6%98%93%E4%B8%93%E5%AE%B6%20%2F%20%E5%BC%80%E5%8F%91%E8%80%85%20%2F%20%E4%B8%A4%E8%80%85%E5%85%BC%E6%9C%89%0A%0A%E7%9B%B8%E5%85%B3%E7%BB%8F%E9%AA%8C%EF%BC%9A%0A%0A%E5%B8%8C%E6%9C%9B%E5%8F%82%E4%B8%8E%E5%BB%BA%E8%AE%BE%E6%88%96%E9%AA%8C%E8%AF%81%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%9A%0A%0A%E8%BF%99%E6%98%AF%E5%85%AC%E5%BC%80%20Issue%E3%80%82%E8%AF%B7%E5%8B%BF%E5%A1%AB%E5%86%99%E8%B4%A6%E6%88%B7%E8%B5%84%E6%96%99%E3%80%81%E4%BA%A4%E6%98%93%E5%AF%B9%E8%B4%A6%E5%8D%95%E3%80%81%E7%A7%81%E4%BA%BA%E7%AD%96%E7%95%A5%E6%88%96%E7%A7%81%E4%BA%BA%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E8%BF%99%E4%B8%AA%20GitHub%20%E8%AE%A8%E8%AE%BA%E7%BB%A7%E7%BB%AD%E6%B2%9F%E9%80%9A%E3%80%82) · [登记体验测试意向](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5B%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%95%5D%20%E6%84%8F%E5%90%91%E7%99%BB%E8%AE%B0&body=%E4%BA%A4%E6%98%93%E6%88%96%E5%AD%A6%E4%B9%A0%E8%83%8C%E6%99%AF%EF%BC%88%E6%A6%82%E8%BF%B0%EF%BC%89%EF%BC%9A%0A%0A%E5%B8%8C%E6%9C%9B%E6%B5%8B%E8%AF%95%E7%9A%84%E5%A4%8D%E7%9B%98%E6%88%96%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%EF%BC%9A%0A%0A%E8%AE%BE%E5%A4%87%E4%B8%8E%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%80%89%E5%A1%AB%EF%BC%89%EF%BC%9A%0A%0A%E6%88%91%E4%BA%86%E8%A7%A3%20TAS%20%E4%BB%8D%E5%9C%A8%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5%EF%BC%8C%E6%9C%AC%E6%AC%A1%E6%98%AF%E5%90%8E%E7%BB%AD%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%95%E7%9A%84%E6%84%8F%E5%90%91%E7%99%BB%E8%AE%B0%EF%BC%8C%E4%B8%8D%E4%BB%A3%E8%A1%A8%E5%8D%B3%E6%97%B6%E5%BC%80%E9%80%9A%E3%80%82%0A%0A%E8%BF%99%E6%98%AF%E5%85%AC%E5%BC%80%20Issue%E3%80%82%E8%AF%B7%E5%8B%BF%E5%A1%AB%E5%86%99%E8%B4%A6%E6%88%B7%E8%B5%84%E6%96%99%E3%80%81%E4%BA%A4%E6%98%93%E5%AF%B9%E8%B4%A6%E5%8D%95%E3%80%81%E7%A7%81%E4%BA%BA%E7%AD%96%E7%95%A5%E6%88%96%E7%A7%81%E4%BA%BA%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E3%80%82)**
+**[加入共创](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5B%E5%85%B1%E5%88%9B%E6%8A%A5%E5%90%8D%5D%20%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D&body=%E5%8F%82%E4%B8%8E%E6%96%B9%E5%90%91%EF%BC%9A%E4%BA%A4%E6%98%93%E4%B8%93%E5%AE%B6%20%2F%20%E5%BC%80%E5%8F%91%E8%80%85%20%2F%20%E4%B8%A4%E8%80%85%E5%85%BC%E6%9C%89%0A%0A%E7%9B%B8%E5%85%B3%E7%BB%8F%E9%AA%8C%EF%BC%9A%0A%0A%E5%B8%8C%E6%9C%9B%E5%8F%82%E4%B8%8E%E5%BB%BA%E8%AE%BE%E6%88%96%E9%AA%8C%E8%AF%81%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%9A%0A%0A%E8%BF%99%E6%98%AF%E5%85%AC%E5%BC%80%20Issue%E3%80%82%E8%AF%B7%E5%8B%BF%E5%A1%AB%E5%86%99%E8%B4%A6%E6%88%B7%E8%B5%84%E6%96%99%E3%80%81%E4%BA%A4%E6%98%93%E5%AF%B9%E8%B4%A6%E5%8D%95%E3%80%81%E7%A7%81%E4%BA%BA%E7%AD%96%E7%95%A5%E6%88%96%E7%A7%81%E4%BA%BA%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E8%BF%99%E4%B8%AA%20GitHub%20%E8%AE%A8%E8%AE%BA%E7%BB%A7%E7%BB%AD%E6%B2%9F%E9%80%9A%E3%80%82) · [体验 TAD · Mac 技术测试版](https://github.com/TradingAlphaDNA/tad-showcase)**
 
 ## 为谁而设计
 
@@ -22,9 +22,9 @@ TAS 面向愿意认真复盘、持续学习的个人投资者，尤其是正在�
 
 ## 两条进化路径，一个个人交易体系
 
-**[TradingAlphaDNA（TAD）](https://github.com/TradingAlphaDNA/tad-showcase)：从实践中认识自己。**
+**[TradingAlphaDNA（TAD）](https://github.com/TradingAlphaDNA)：从实践中认识自己。**
 
-TAD 连接相关交易记录，帮助你按账户、标的和策略理解盈亏、收益与资金使用。交易事实与分析结果为复盘提供基础；支持范围和缺失信息会影响能够得出的结论。[查看 TAD 产品展示](https://github.com/TradingAlphaDNA/tad-showcase)。
+TAD 连接相关交易记录，帮助你按账户、标的和策略理解盈亏、收益与资金使用。交易事实与分析结果为复盘提供基础；支持范围和缺失信息会影响能够得出的结论。[了解 TAD](https://github.com/TradingAlphaDNA)。
 
 **TradingKnowledgeHub（TKH）：从知识中形成方法。**
 
@@ -34,7 +34,7 @@ TKH 正在开发中，面向交易教育视频、网页文章和其他研究材�
 
 TAS 的产品目标，是围绕你想改进的问题，把交易结果与相关知识、个人方法联系起来，保留你的判断、仍未解决的问题和后续观察。下一次复盘可以从这些成果继续，而不必重新整理全部上下文。
 
-![TAS 产品关系与体验愿景](https://raw.githubusercontent.com/TradingAlphaSystem/.github/main/assets/TAS-Relationship-zh-CN.png)
+![TAS 产品关系与体验愿景](https://raw.githubusercontent.com/TradingAlphaSystem/.github/main/assets/TAS-V5-Simple-zh-CN.png)
 
 *产品愿景示意，能力分阶段建设；跨产品集成尚未验证。*
 
@@ -63,7 +63,7 @@ TAS 规划中的智能体协作贯穿分析复盘、知识研究、方法整理�
 
 ## 当前进展
 
-- **[TAD](https://github.com/TradingAlphaDNA/tad-showcase)：**已有公开 Mac 技术测试版，持续开发中；具体能力和限制以其[当前公开说明](https://github.com/TradingAlphaDNA/tad-showcase)为准。
+- **[TAD](https://github.com/TradingAlphaDNA)：**已有公开 Mac 技术测试版，持续开发中；具体能力和限制以其[当前公开说明](https://github.com/TradingAlphaDNA/tad-showcase)为准。
 - **TKH：**持续开发中，已有部分知识与个人学习能力；这些能力不等于 TAS 集成已完成。
 - **TAS：**产品定位与首个复盘闭环范围已形成，正在明确现有能力和接入缺口；尚未交付统一的跨产品工作台。
 
@@ -77,12 +77,14 @@ TAS 规划中的智能体协作贯穿分析复盘、知识研究、方法整理�
 
 带上你想解决的问题和愿意探索的方向，**[介绍自己，加入共创](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5B%E5%85%B1%E5%88%9B%E6%8A%A5%E5%90%8D%5D%20%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D&body=%E5%8F%82%E4%B8%8E%E6%96%B9%E5%90%91%EF%BC%9A%E4%BA%A4%E6%98%93%E4%B8%93%E5%AE%B6%20%2F%20%E5%BC%80%E5%8F%91%E8%80%85%20%2F%20%E4%B8%A4%E8%80%85%E5%85%BC%E6%9C%89%0A%0A%E7%9B%B8%E5%85%B3%E7%BB%8F%E9%AA%8C%EF%BC%9A%0A%0A%E5%B8%8C%E6%9C%9B%E5%8F%82%E4%B8%8E%E5%BB%BA%E8%AE%BE%E6%88%96%E9%AA%8C%E8%AF%81%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%9A%0A%0A%E8%BF%99%E6%98%AF%E5%85%AC%E5%BC%80%20Issue%E3%80%82%E8%AF%B7%E5%8B%BF%E5%A1%AB%E5%86%99%E8%B4%A6%E6%88%B7%E8%B5%84%E6%96%99%E3%80%81%E4%BA%A4%E6%98%93%E5%AF%B9%E8%B4%A6%E5%8D%95%E3%80%81%E7%A7%81%E4%BA%BA%E7%AD%96%E7%95%A5%E6%88%96%E7%A7%81%E4%BA%BA%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E8%BF%99%E4%B8%AA%20GitHub%20%E8%AE%A8%E8%AE%BA%E7%BB%A7%E7%BB%AD%E6%B2%9F%E9%80%9A%E3%80%82)**。
 
-### 招募体验测试者
+### 体验 TAD，一起改进交易复盘
 
-如果你交易股票或期权、定期复盘，或持续学习交易教育内容，欢迎帮助我们验证：怎样的复盘更清楚，怎样的 Playbook 更实用，怎样让下一次学习与实践更容易接续。
+现在可以从 **[TAD Mac 公开技术测试版](https://github.com/TradingAlphaDNA/tad-showcase)** 开始，使用随附的模拟数据体验交易分析，并通过 TAD 的测试流程反馈问题和建议。
 
-**[登记体验测试意向](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5B%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%95%5D%20%E6%84%8F%E5%90%91%E7%99%BB%E8%AE%B0&body=%E4%BA%A4%E6%98%93%E6%88%96%E5%AD%A6%E4%B9%A0%E8%83%8C%E6%99%AF%EF%BC%88%E6%A6%82%E8%BF%B0%EF%BC%89%EF%BC%9A%0A%0A%E5%B8%8C%E6%9C%9B%E6%B5%8B%E8%AF%95%E7%9A%84%E5%A4%8D%E7%9B%98%E6%88%96%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%EF%BC%9A%0A%0A%E8%AE%BE%E5%A4%87%E4%B8%8E%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%80%89%E5%A1%AB%EF%BC%89%EF%BC%9A%0A%0A%E6%88%91%E4%BA%86%E8%A7%A3%20TAS%20%E4%BB%8D%E5%9C%A8%E5%BC%80%E5%8F%91%E9%98%B6%E6%AE%B5%EF%BC%8C%E6%9C%AC%E6%AC%A1%E6%98%AF%E5%90%8E%E7%BB%AD%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%95%E7%9A%84%E6%84%8F%E5%90%91%E7%99%BB%E8%AE%B0%EF%BC%8C%E4%B8%8D%E4%BB%A3%E8%A1%A8%E5%8D%B3%E6%97%B6%E5%BC%80%E9%80%9A%E3%80%82%0A%0A%E8%BF%99%E6%98%AF%E5%85%AC%E5%BC%80%20Issue%E3%80%82%E8%AF%B7%E5%8B%BF%E5%A1%AB%E5%86%99%E8%B4%A6%E6%88%B7%E8%B5%84%E6%96%99%E3%80%81%E4%BA%A4%E6%98%93%E5%AF%B9%E8%B4%A6%E5%8D%95%E3%80%81%E7%A7%81%E4%BA%BA%E7%AD%96%E7%95%A5%E6%88%96%E7%A7%81%E4%BA%BA%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E3%80%82)**，告诉我们你希望体验的场景。TAS 将随原型成熟度推进测试；登记意向不代表立即获得使用资格。想先体验已有能力，可以查看 **[TAD 公开技术测试版](https://github.com/TradingAlphaDNA/tad-showcase)**。
+**[下载与测试说明](https://github.com/TradingAlphaDNA/tad-showcase)** · **[中文测试指南](https://github.com/TradingAlphaDNA/tad-showcase/blob/main/docs/testing/README.zh.md)**
 
-*以上入口打开预填的 GitHub Issues，需要 GitHub 账号。提交内容公开可见，请只提供概括性介绍，不要填写账户资料、交易对账单、私人策略或私人联系方式；后续可在 GitHub 继续交流。*
+本次体验针对 TAD 当前已有能力；完整 TAS 工作台仍在开发中，不包含在这个测试版内。
+
+*TAS 共创入口打开预填的 GitHub Issues，需要 GitHub 账号。提交内容公开可见，请只提供概括性介绍，不要填写账户资料、交易对账单、私人策略或私人联系方式。*
 
 **让交易实践与知识学习相互促进，持续完善个人交易体系。**

@@ -12,7 +12,7 @@ You have trading records, educational videos, articles and notes. Yet after a tr
 
 Trading Alpha System (TAS) is being designed as a personal trading evolution workspace for stock and options investors. It connects trading analysis, knowledge learning and the application of personal methods through AI agent assistance. Built around your trading records, learning goals and judgment, it aims to make reviews and research something you can save, revisit and build on.
 
-**[Co-create with us](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BCo-creation%5D%20Introduction&body=Role%3A%20trading%20expert%20%2F%20developer%20%2F%20both%0A%0ARelevant%20experience%3A%0A%0AWhat%20I%20would%20like%20to%20help%20build%20or%20validate%3A%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.%20We%20can%20continue%20this%20conversation%20here%20on%20GitHub.) · [Become an early tester](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BEarly%20testing%5D%20Interest&body=My%20trading%20or%20learning%20context%20%28high%20level%29%3A%0A%0AA%20review%20or%20learning%20problem%20I%20would%20like%20to%20test%3A%0A%0ADevice%20and%20operating%20system%20%28optional%29%3A%0A%0AI%20understand%20TAS%20is%20in%20development%20and%20this%20registers%20interest%20in%20future%20testing%2C%20not%20immediate%20access.%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.)**
+**[Co-create with us](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BCo-creation%5D%20Introduction&body=Role%3A%20trading%20expert%20%2F%20developer%20%2F%20both%0A%0ARelevant%20experience%3A%0A%0AWhat%20I%20would%20like%20to%20help%20build%20or%20validate%3A%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.%20We%20can%20continue%20this%20conversation%20here%20on%20GitHub.) · [Try TAD · Mac technical preview](https://github.com/TradingAlphaDNA/tad-showcase)**
 
 ## Who it is for
 
@@ -22,9 +22,9 @@ TAS focuses on the work between those activities: recovering the context behind 
 
 ## Two paths toward your own trading approach
 
-**[TradingAlphaDNA (TAD)](https://github.com/TradingAlphaDNA/tad-showcase): learn from your trading practice.**
+**[TradingAlphaDNA (TAD)](https://github.com/TradingAlphaDNA): learn from your trading practice.**
 
-TAD connects related trading records so you can examine profit and loss, returns and capital use by account, security and strategy. These facts and analyses provide a basis for review, with conclusions limited by the available records and supported calculations. [Explore TAD](https://github.com/TradingAlphaDNA/tad-showcase).
+TAD connects related trading records so you can examine profit and loss, returns and capital use by account, security and strategy. These facts and analyses provide a basis for review, with conclusions limited by the available records and supported calculations. [Explore TAD](https://github.com/TradingAlphaDNA).
 
 **TradingKnowledgeHub (TKH): develop your understanding and methods.**
 
@@ -34,7 +34,7 @@ Under active development, TKH connects trading education videos, web articles an
 
 TAS is designed to connect a question you want to investigate with relevant trading results, knowledge and personal methods. It would retain your conclusions, unresolved questions and follow-up observations, giving the next review a useful starting point.
 
-![TAS product relationship and experience vision](https://raw.githubusercontent.com/TradingAlphaSystem/.github/main/assets/TAS-Relationship-en.png)
+![TAS product relationship and experience vision](https://raw.githubusercontent.com/TradingAlphaSystem/.github/main/assets/TAS-V5-Simple-en.png)
 
 *Product vision; capabilities are being developed in stages. Cross-product integration has not yet been validated.*
 
@@ -63,7 +63,7 @@ Quantitative trading is an optional future direction, subject to separate rule v
 
 ## Current status
 
-- **[TAD](https://github.com/TradingAlphaDNA/tad-showcase):** A public Mac technical preview is available, with development ongoing. See its [current public documentation](https://github.com/TradingAlphaDNA/tad-showcase) for capabilities and limitations.
+- **[TAD](https://github.com/TradingAlphaDNA):** A public Mac technical preview is available, with development ongoing. See its [current public documentation](https://github.com/TradingAlphaDNA/tad-showcase) for capabilities and limitations.
 - **TKH:** Under active development, with some knowledge and personal learning capabilities already available. These do not establish completed TAS integration.
 - **TAS:** Product positioning and the first review workflow have been defined. Integration gaps are being assessed; a unified cross-product workspace has not yet been delivered.
 
@@ -77,12 +77,14 @@ Help turn real trading and learning needs into a useful personal workspace. We w
 
 Bring a problem you know well and an idea you would like to explore. **[Introduce yourself as a co-creator](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BCo-creation%5D%20Introduction&body=Role%3A%20trading%20expert%20%2F%20developer%20%2F%20both%0A%0ARelevant%20experience%3A%0A%0AWhat%20I%20would%20like%20to%20help%20build%20or%20validate%3A%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.%20We%20can%20continue%20this%20conversation%20here%20on%20GitHub.)** and tell us where you would like to contribute.
 
-### Become an early tester
+### Try TAD and help improve trading review
 
-Do you trade stocks or options, review your decisions, or learn from trading education content? Help us discover what makes a review clearer, a playbook more useful and the next learning step easier to take.
+Start with the available **[TAD Mac technical preview](https://github.com/TradingAlphaDNA/tad-showcase)**. Explore trading analysis with the included synthetic examples and share feedback through TAD's testing process.
 
-**[Register your interest in early testing](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BEarly%20testing%5D%20Interest&body=My%20trading%20or%20learning%20context%20%28high%20level%29%3A%0A%0AA%20review%20or%20learning%20problem%20I%20would%20like%20to%20test%3A%0A%0ADevice%20and%20operating%20system%20%28optional%29%3A%0A%0AI%20understand%20TAS%20is%20in%20development%20and%20this%20registers%20interest%20in%20future%20testing%2C%20not%20immediate%20access.%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.)** and share a workflow you would like to try. TAS testing will follow prototype readiness; registering interest does not provide immediate access. To explore what is available today, visit the **[TAD public technical preview](https://github.com/TradingAlphaDNA/tad-showcase)**.
+**[Download and testing instructions](https://github.com/TradingAlphaDNA/tad-showcase)** · **[English testing guide](https://github.com/TradingAlphaDNA/tad-showcase/blob/main/docs/testing/README.en.md)**
 
-*These links open prefilled GitHub Issues and require a GitHub account. Submissions are public: share only a high-level introduction, without account details, trade statements, private strategies or personal contact information. We can continue the conversation on GitHub.*
+This is a test of TAD's current capabilities. The complete TAS workspace remains in development; it is not included in this preview.
+
+*The TAS co-creation links open prefilled GitHub Issues and require a GitHub account. Submissions are public: share only a high-level introduction, without account details, trade statements, private strategies or personal contact information.*
 
 **Connect trading practice with continued learning to develop an approach that increasingly fits you.**
