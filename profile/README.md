@@ -4,87 +4,40 @@
 
 **Your personal trading evolution system.**
 
-**Understand your trades. Develop your own approach. Build on what you learn.**
+Understand your trades. Develop your own approach. Build on what you learn.
 
-*Product direction defined · First review workflow in planning · Cross-product integration not yet validated*
+TAS is being designed as a personal trading evolution workspace for stock and options investors. Through AI agent collaboration, it connects trading analysis, learning and methods in practice—built around your own records, learning goals and judgment.
 
-You have trading records, educational videos, articles and notes. Yet after a trade, important questions can remain: What does the result tell you? Which practices are worth keeping? Does a method you have studied fit your circumstances? What should you observe or improve next time?
+If your broker records, trading education videos, articles and notes feel disconnected, TAS aims to help you bring them into a review you can save, revisit and continue.
 
-Trading Alpha System (TAS) is being designed as a personal trading evolution workspace for stock and options investors. It connects trading analysis, knowledge learning and the application of personal methods through AI agent assistance. Built around your trading records, learning goals and judgment, it aims to make reviews and research something you can save, revisit and build on.
+**[Co-create with us](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BCo-creation%5D%20Introduction&body=Role%3A%20trading%20expert%20%2F%20developer%20%2F%20both%0A%0ARelevant%20experience%3A%0A%0AWhat%20I%20would%20like%20to%20help%20build%20or%20validate%3A%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.%20We%20can%20continue%20this%20conversation%20here%20on%20GitHub.) · [Try TAD](https://github.com/TradingAlphaDNA/tad-showcase)**
 
-**[Co-create with us](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BCo-creation%5D%20Introduction&body=Role%3A%20trading%20expert%20%2F%20developer%20%2F%20both%0A%0ARelevant%20experience%3A%0A%0AWhat%20I%20would%20like%20to%20help%20build%20or%20validate%3A%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.%20We%20can%20continue%20this%20conversation%20here%20on%20GitHub.) · [Try TAD · Mac technical preview](https://github.com/TradingAlphaDNA/tad-showcase)**
+## How the products fit together
 
-## Who it is for
-
-Investors who actively review their trades and keep learning—particularly those piecing together broker records, analysis tools, trading education videos, articles and personal notes.
-
-TAS focuses on the work between those activities: recovering the context behind a decision, relating a trading result to a method, and carrying a useful insight into the next review.
-
-## Two paths toward your own trading approach
-
-**[TradingAlphaDNA (TAD)](https://github.com/TradingAlphaDNA): learn from your trading practice.**
-
-TAD connects related trading records so you can examine profit and loss, returns and capital use by account, security and strategy. These facts and analyses provide a basis for review, with conclusions limited by the available records and supported calculations. [Explore TAD](https://github.com/TradingAlphaDNA).
-
-**TradingKnowledgeHub (TKH): develop your understanding and methods.**
-
-Under active development, TKH connects trading education videos, web articles and other research materials with personal notes, questions, structured knowledge and playbooks. Its purpose is to help you understand a method’s reasoning, conditions and sources as you develop your own approach.
-
-**TAS: carry the work forward.**
-
-TAS is designed to connect a question you want to investigate with relevant trading results, knowledge and personal methods. It would retain your conclusions, unresolved questions and follow-up observations, giving the next review a useful starting point.
+- **[TradingAlphaDNA (TAD)](https://github.com/TradingAlphaDNA): learn from your trading practice.** Connect related trading records and examine results, strategies, securities and capital use.
+- **[TradingKnowledgeHub (TKH)](https://github.com/TradingKnowledgeHub): turn knowledge into your own methods.** Connect trading education videos, articles and other materials with personal understanding, knowledge and playbooks. Under active development.
+- **TAS: carry the work forward.** Bring the trading facts and relevant knowledge into a review, preserve your judgment and open questions, and build on them next time.
 
 ![TAS product relationship and experience vision](https://raw.githubusercontent.com/TradingAlphaSystem/.github/main/assets/TAS-V5-Simple-en.png)
 
-*Product vision; capabilities are being developed in stages. Cross-product integration has not yet been validated.*
+*Product vision. Development is phased; cross-product integration has not yet been validated.*
 
-## What should a review leave you with?
+## Start with a review you can revisit
 
-The first planned workflow is a trading review you can revisit:
+The first planned workflow is to frame a question about completed trades, examine the facts alongside relevant knowledge or a playbook, save your judgment and follow-up observations, and return with new evidence.
 
-1. **Frame a question.** Select a completed trade or a clearly defined group of trades.
-2. **Examine the facts and methods.** Review the results alongside relevant knowledge or a personal playbook, keeping evidence and missing information distinct.
-3. **Save your judgment and observations.** Record what you accept, what remains uncertain and what to look for next time.
-4. **Return and continue.** Add evidence, reconsider the earlier judgment and decide what to retain, revise or research further.
+AI agents help find information, compare explanations and organize the work. You decide your goals, which conclusions to accept, which methods to adopt and which actions to authorize. Missing evidence remains visible: without the original plan, a result alone cannot establish whether you followed it.
 
-Without a record of the original plan, for example, a trading result alone cannot establish whether you followed that plan. A useful review can still preserve supported findings and learning questions while making that limitation clear.
+## Co-create with us
 
-## AI assistance, with your judgment at the center
+We welcome **trading experts** who can help shape realistic review and learning scenarios, and **developers** interested in agent workflows, data integration, knowledge systems and product experience.
 
-The planned agent capabilities support trading review, knowledge research, method development and trading assistance: connecting information, comparing explanations, checking conditions and organizing follow-up questions.
+**[Introduce yourself and the problem you want to help solve](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BCo-creation%5D%20Introduction&body=Role%3A%20trading%20expert%20%2F%20developer%20%2F%20both%0A%0ARelevant%20experience%3A%0A%0AWhat%20I%20would%20like%20to%20help%20build%20or%20validate%3A%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.%20We%20can%20continue%20this%20conversation%20here%20on%20GitHub.).** The link opens a prefilled public GitHub Issue and requires a GitHub account. Please share a high-level introduction without account details, trade statements or private strategies.
 
-You decide your goals, which conclusions to accept, which methods to adopt and which actions to authorize. An AI explanation, a saved conclusion and an adopted trading method remain distinct.
+## Try TAD
 
-## From review to continued practice
+The **[TAD Mac technical preview](https://github.com/TradingAlphaDNA/tad-showcase)** is available now. Start with its included synthetic examples and follow the current testing instructions.
 
-The longer-term direction is to support personal playbooks across research and planning before a trade, risk checks and execution records during it, and options management, strategy review and execution review afterward. The initial focus is narrower: preserving a judgment and continuing the work in a later review.
+**[Download and testing instructions](https://github.com/TradingAlphaDNA/tad-showcase) · [Share test feedback](https://github.com/TradingAlphaDNA/tad-showcase/issues/new?template=technical-preview.yml)**
 
-Quantitative trading is an optional future direction, subject to separate rule validation, authorization, risk limits and the ability to pause and trace execution.
-
-## Current status
-
-- **[TAD](https://github.com/TradingAlphaDNA):** A public Mac technical preview is available, with development ongoing. See its [current public documentation](https://github.com/TradingAlphaDNA/tad-showcase) for capabilities and limitations.
-- **TKH:** Under active development, with some knowledge and personal learning capabilities already available. These do not establish completed TAS integration.
-- **TAS:** Product positioning and the first review workflow have been defined. Integration gaps are being assessed; a unified cross-product workspace has not yet been delivered.
-
-This introduction describes a product direction, not an available complete TAS demo or installer, or a demonstrated improvement in trading performance. TAS deployment, pricing and distribution arrangements remain undecided.
-
-## Help shape TAS
-
-### Co-create with us: trading experts and developers
-
-Help turn real trading and learning needs into a useful personal workspace. We welcome **trading experts** who can challenge review workflows, clarify risk and decision criteria, and contribute practical learning scenarios, and **developers** interested in agent workflows, data integration, knowledge systems and product experience.
-
-Bring a problem you know well and an idea you would like to explore. **[Introduce yourself as a co-creator](https://github.com/TradingAlphaSystem/.github/issues/new?title=%5BCo-creation%5D%20Introduction&body=Role%3A%20trading%20expert%20%2F%20developer%20%2F%20both%0A%0ARelevant%20experience%3A%0A%0AWhat%20I%20would%20like%20to%20help%20build%20or%20validate%3A%0A%0AThis%20is%20a%20public%20issue.%20Please%20do%20not%20include%20account%20details%2C%20trade%20statements%2C%20private%20strategies%20or%20personal%20contact%20information.%20We%20can%20continue%20this%20conversation%20here%20on%20GitHub.)** and tell us where you would like to contribute.
-
-### Try TAD and help improve trading review
-
-Start with the available **[TAD Mac technical preview](https://github.com/TradingAlphaDNA/tad-showcase)**. Explore trading analysis with the included synthetic examples and share feedback through TAD's testing process.
-
-**[Download and testing instructions](https://github.com/TradingAlphaDNA/tad-showcase)** · **[English testing guide](https://github.com/TradingAlphaDNA/tad-showcase/blob/main/docs/testing/README.en.md)**
-
-This is a test of TAD's current capabilities. The complete TAS workspace remains in development; it is not included in this preview.
-
-*The TAS co-creation links open prefilled GitHub Issues and require a GitHub account. Submissions are public: share only a high-level introduction, without account details, trade statements, private strategies or personal contact information.*
-
-**Connect trading practice with continued learning to develop an approach that increasingly fits you.**
+TAS positioning and its first review workflow are defined; the unified workspace is still in planning and integration assessment. TKH is under active development. The available preview tests TAD's current capabilities; it does not include a complete TAS workspace or establish an improvement in trading performance.
