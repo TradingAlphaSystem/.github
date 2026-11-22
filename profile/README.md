@@ -6,7 +6,7 @@
 
 Understand your trades. Develop your own approach. Build on what you learn.
 
-TAS is being designed as a personal trading evolution workspace for stock and options investors. Through AI agent collaboration, it connects trading analysis, learning and methods in practice—built around your own records, learning goals and judgment.
+TAS is being developed as a personal trading evolution workspace for stock and options investors. Through AI agent collaboration, it connects trading analysis, learning and methods in practice—built around your own records, learning goals and judgment.
 
 If your broker records, trading education videos, articles and notes feel disconnected, TAS aims to help you bring them into a review you can save, revisit and continue.
 
@@ -20,7 +20,13 @@ If your broker records, trading education videos, articles and notes feel discon
 
 ![TAS product relationship and experience vision](https://raw.githubusercontent.com/TradingAlphaSystem/.github/main/assets/TAS-V5-Simple-en.png)
 
-*Product vision. Development is phased; cross-product integration has not yet been validated.*
+*Product vision. Shared assistant capabilities and selected application integrations are being implemented and validated; the complete cross-product review workflow is not yet available.*
+
+## TAB: ask about the work in front of you
+
+TAB is the shared AI assistant being developed for TAD and TKH. Its role is to help you ask questions about the current analysis or learning material, inspect supporting sources, and save useful answers through the host application's existing features.
+
+Selected development workflows have been implemented and tested, including source-linked answers and saved-result retrieval. Coverage varies by application, material and conversation length; these results do not establish that every follow-up or context switch works across both products. TAB is not included in the public TAD preview linked below.
 
 ## Start with a review you can revisit
 
@@ -40,4 +46,12 @@ The **[TAD Mac technical preview](https://github.com/TradingAlphaDNA/tad-showcas
 
 **[Download and testing instructions](https://github.com/TradingAlphaDNA/tad-showcase) · [Share test feedback](https://github.com/TradingAlphaDNA/tad-showcase/issues/new?template=technical-preview.yml)**
 
-TAS positioning and its first review workflow are defined; the unified workspace is still in planning and integration assessment. TKH is under active development. The available preview tests TAD's current capabilities; it does not include a complete TAS workspace or establish an improvement in trading performance.
+## Current availability
+
+- **Public preview:** TAD's existing Mac technical preview, with its published features and testing instructions.
+- **In development:** TAB and selected TAD/TKH integrations. TKH development builds include material reading, source-linked questions and saved learning results; no public TKH installer is offered here.
+- **Planned cross-product workflow:** connect a bounded trade review with relevant method references, preserve your judgment and open questions, and revisit them. This complete TAS workflow has not yet been validated or publicly released.
+
+Development progress does not change the contents or data-handling terms of the existing public TAD download. Each product and release defines its own AI access and data-sharing scope. No improvement in trading performance is claimed.
+
+*Status updated: November 22, 2026.*
